@@ -1,2 +1,2 @@
-import keyword
-print(keyword.kwlist)
+abs = 1
+abs(-3)

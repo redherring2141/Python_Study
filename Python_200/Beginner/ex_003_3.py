@@ -1,1 +1,2 @@
-and = 1
+import keyword
+print(keyword.kwlist)

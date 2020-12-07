@@ -1,2 +1,3 @@
-listdata = ['a', 'b', 'c']
-if 'a' in listdata: print('a exists in listdata.')
+ listdata = ['a', 'b', 'c']
+ if 'a' in listdata:
+     print('a exists in listdata.')
