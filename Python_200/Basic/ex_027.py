@@ -1,3 +1,5 @@
+# Ex027 - Indexing sequence datatypes
+
 strdata = 'Time is money!!'
 listdata = [1, 2, [1, 2, 3]]
 print(strdata[5])       # 'i' is printed out

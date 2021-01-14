@@ -1,3 +1,5 @@
+# Ex007 - Printing data
+
 a = 200
 msg = 'I love Python'
 list_data = ['a', 'b', 'c']

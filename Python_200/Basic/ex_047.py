@@ -1,3 +1,5 @@
+# Ex047 - Importing PYthon modules (3): import~as
+
 import ex_044_mypackage as mp
 import ex_044_mypackage.mylib as ml
 

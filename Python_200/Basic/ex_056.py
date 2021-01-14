@@ -1,4 +1,4 @@
-#Ex056 - Exception handling (2): try~except~else
+# Ex056 - Exception handling (2): try~except~else
 
 try:
     print('Hello.')

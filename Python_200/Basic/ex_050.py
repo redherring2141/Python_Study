@@ -1,3 +1,5 @@
+# Ex050 - Understanding class members and instance members
+
 class MyClass:
     var = 'Good day!!'
     def sayHello(self):

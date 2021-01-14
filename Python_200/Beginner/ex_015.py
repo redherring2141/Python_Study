@@ -1,3 +1,5 @@
+# Ex015 - Learning None concept
+
 val = None
 condition = 2
 if condition == 1:

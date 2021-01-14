@@ -1,3 +1,5 @@
+# Ex024 - Understanding logical operators (and, or, not)
+
 bool1 = True; bool2 = False; bool3 = True; bool4 = False
 print(bool1 and bool2)  # False is printed out.
 print(bool1 and bool3)  # True is printed out.

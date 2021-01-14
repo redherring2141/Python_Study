@@ -1,3 +1,5 @@
+# Ex030 - Repeating sequence datatypes
+
 artist = 'BTS!'
 fan = 'ARMY'
 dispdata = fan + 'is shouting.' + artist*3

@@ -1,3 +1,5 @@
+# Ex025 - Understanding bitwise operators (&, |, ~, ^, >>, <<)
+
 bit1 = 0x61
 bit2 = 0x62
 print(hex(bit1 & bit2)) # 0x60 is printed out.

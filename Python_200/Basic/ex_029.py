@@ -1,3 +1,5 @@
+# Ex029 - Linking sequence datatypes (+)
+
 strdata1 = 'I love'; strdata2 = 'Python'; strdata3 = 'you'
 listdata1 = [1,2,3]; listdata2 = [4,5,6]
 print(strdata1 + strdata2)

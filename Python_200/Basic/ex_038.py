@@ -1,3 +1,5 @@
+# Ex038 - Understanding dictionary data structure ({})
+
 dict1 = {'a':1, 'b':2, 'c':3}
 print(dict1['a'])   # 1 is printed out
 dict1['d'] = 4

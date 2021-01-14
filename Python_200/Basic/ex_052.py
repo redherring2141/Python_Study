@@ -1,3 +1,5 @@
+# Ex052 - Understanding class constructor
+
 class MyClass:
     def __init__(self):
         self.var = 'Hello!'

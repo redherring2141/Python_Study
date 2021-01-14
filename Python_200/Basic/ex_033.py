@@ -1,3 +1,5 @@
+# Ex033 - Understanding strings
+
 strdata1 = 'I am a Python programmer'           # Declare string 1
 strdata2 = "You are a programmer"               # Declare string 2
 strdata3 = """I love                            # Declare string 3

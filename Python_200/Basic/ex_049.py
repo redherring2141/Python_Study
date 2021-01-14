@@ -1,3 +1,5 @@
+# Ex049 - Understanding class (class)
+
 class MyClass:
     var = 'Hello'
     def sayHello(self):

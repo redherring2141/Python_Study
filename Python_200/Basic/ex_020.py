@@ -1,3 +1,5 @@
+# Ex020 - Understanding basic operators (+, -, *, /, **)
+
 a = 2
 b = 4
 ret1 = a+b          #ret1 = 2+4 = 6

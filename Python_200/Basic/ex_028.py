@@ -1,3 +1,5 @@
+# Ex028 - Slicing sequence datatype
+
 strdata = 'Time is money!!'
 print(strdata[1:5])     #'ime' is printed out
 print(strdata[:7])      #'Time is' is printed out

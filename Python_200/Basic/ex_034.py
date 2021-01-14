@@ -1,3 +1,5 @@
+# Ex034 - Formatting strings
+
 txt1 ='Java'; txt2 = 'Python'
 num1 = 5; num2 = 10
 print('I am more familiar with %s than %s.' %(txt2, txt1))

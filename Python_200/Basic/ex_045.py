@@ -1,3 +1,5 @@
+# Ex045 - Importing Python models (1): (import)
+
 import time                     #Import Python's internal module 'time'
 import ex_043_mylib             #Import 'mylib' module written
 import ex_044_mypackage.mylib   #Import 'mylib' module in mypackage

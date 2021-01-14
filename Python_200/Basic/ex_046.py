@@ -1,3 +1,4 @@
+# Ex046 - Importing Python modules (2): from~import
 from time import sleep
 from ex_044_mypackage import mylib
 from ex_044_mypackage.mylib import reverse

@@ -1,3 +1,5 @@
+# Ex009 - Learning if statement (1): if~else
+
 x = 1
 y = 2
 if x >= y:

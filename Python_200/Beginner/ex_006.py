@@ -1,3 +1,5 @@
+# Ex006 - Learning data types
+
 int_data = 1                        # Declare integer
 float_data = 3.14                   # Declare real
 complex_data = 1+5j                 # Declare complex

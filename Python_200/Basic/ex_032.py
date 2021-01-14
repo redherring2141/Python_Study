@@ -1,3 +1,5 @@
+# Ex032 - Understanding member checks (in)
+
 listdata = [1,2,3,4]
 ret1 = 5 in listdata    # False
 ret2 = 4 in listdata    # True

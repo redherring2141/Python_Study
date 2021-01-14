@@ -1,3 +1,5 @@
+# Ex040 - Understanding function arguments
+
 def add_txt(t1, t2='Python'):
     print(t1+':'+t2)
 

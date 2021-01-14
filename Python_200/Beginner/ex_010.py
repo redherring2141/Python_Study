@@ -1,3 +1,5 @@
+# Ex010 - Learning if statement (2): if~elif
+
 x = 1
 y = 2
 if x>y:

@@ -1,3 +1,5 @@
+# Ex044 - Understanding Python package
+
 import ex_044_mypackage.mylib
 
 ret1 = ex_044_mypackage.mylib.add_txt('Korea','1st')

@@ -1,3 +1,5 @@
+# Ex023 - Understanding relational operators (==, !=, <, <=, >, >=)
+
 x = 1; y = 2;
 str1 = 'abc'; str2 = 'python'
 print(x == y)           # False is printed out.

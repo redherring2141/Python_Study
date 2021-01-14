@@ -1,3 +1,5 @@
+# Ex041 - Understanding local and global variables (global)
+
 param = 10
 strdata = 'global variable'
 

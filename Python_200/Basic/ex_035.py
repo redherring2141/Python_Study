@@ -1,3 +1,5 @@
+# Ex035 - Understanding escape character
+
 print('I love Python.\nPython is much easier than Java.')
 print('Name: John Smith\tSex: Male\tAge: 22')
 print('This sentence is too longer than screen width to be seen.\

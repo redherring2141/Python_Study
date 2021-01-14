@@ -1,3 +1,5 @@
+# Ex031 - Understanding the sizes of sequence datatypes
+
 strdata1 = 'I love python'
 strdata2 = 'I love Python very much in Korean'
 listdata = ['a', 'b', 'c', strdata1, strdata2]
